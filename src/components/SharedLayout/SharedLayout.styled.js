@@ -23,6 +23,6 @@ export const Link = styled(NavLink)`
   font-size: 18px;
   &.active {
     color: white;
-    background-color: #c27ba0;
+    background-color: black;
   }
 `;
