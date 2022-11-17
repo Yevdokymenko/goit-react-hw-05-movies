@@ -12,7 +12,7 @@ export const LinkBtn = styled(Link)`
   font-size: 20px;
   color: black;
   :hover {
-    color: #c27ba0;
+    color: orange;
   }
 `;
 
@@ -37,6 +37,6 @@ export const AddInfoWrapper = styled.div`
 export const AddInfoItemLink = styled(Link)`
   color: blue;
   :hover {
-    color: #c27ba0;
+    color: orange;
   }
 `;

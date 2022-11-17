@@ -27,7 +27,7 @@ export const Button = styled.button`
   background-color: #faebd7;
   border: 1px solid #e1d3c1;
   :hover {
-    background-color: #c27ba0;
+    background-color: orange;
     color: #ffffff;
   }
 `;
@@ -41,9 +41,8 @@ export const LinkTitle = styled(Link)`
   color: black;
   font-weight: 500;
   font-size: 20px;
-  color: black;
   :hover {
-    color: #c27ba0;
+    color: orange;
   }
 `;
 
