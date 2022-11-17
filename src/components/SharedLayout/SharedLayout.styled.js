@@ -8,7 +8,7 @@ export const Container = styled.section`
 export const Header = styled.header`
   padding: 16px 32px;
   border-bottom: 1px solid black;
-  background-color: #faebd7;
+  background-color: orange;
   > nav {
     display: flex;
   }

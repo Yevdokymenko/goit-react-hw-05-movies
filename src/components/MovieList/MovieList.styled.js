@@ -12,7 +12,7 @@ export const LinkTitle = styled(Link)`
   font-size: 20px;
   color: black;
   :hover {
-    color: #c27ba0;
+    color: orange;
   }
 `;
 
